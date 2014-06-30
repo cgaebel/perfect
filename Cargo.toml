@@ -1,0 +1,13 @@
+[package]
+
+name = "perfect"
+version = "0.1.0"
+authors = [ "cgaebel@uwaterloo.ca" ]
+
+[[lib]]
+
+name = "perfect"
+
+[dependencies.graph]
+
+git = "https://github.com/cgaebel/graph.git"
